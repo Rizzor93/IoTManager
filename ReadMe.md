@@ -35,3 +35,36 @@ make -j
 - [ ] Add Option
     - [x] configure connection
     - [ ] secure option
+
+
+# Gallery
+
+### Dashboard
+#### DeviceList:
+![](./images/dashboard.png)
+#### Add device:
+![](./images/add_device.png)
+#### Data:
+![](./images/data.png)
+#### Option:
+![](./images/option.png)
+
+
+### Device
+![](./images/device.png)
+#### modify device:
+![](./images/modify_device.png)
+
+### Sensor:
+![](./images/sensorList.png)
+#### Add sensor:
+![](./images/add_sensor.png)
+#### Modify sensor:
+![](./images/modify_sensor.png)
+
+### Record:
+![](./images/recordList.png)
+#### Add record:
+![](./images/add_record.png)
+#### Modify record:
+![](./images/modify_record.png)
